@@ -118,29 +118,29 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Computer" xml:space="preserve">
-    <value>This Computer</value>
+    <value>Этот компьютер</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="computer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\computer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DefaultDiskLabel" xml:space="preserve">
-    <value>Local Disk</value>
+    <value>Локальный диск</value>
   </data>
   <data name="drive" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\drive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ExplorerView_ColumnModified" xml:space="preserve">
-    <value>Last modified</value>
+    <value>Дата изменения</value>
   </data>
   <data name="ExplorerView_ColumnName" xml:space="preserve">
-    <value>Name</value>
+    <value>Имя</value>
   </data>
   <data name="ExplorerView_ColumnSize" xml:space="preserve">
-    <value>Size</value>
+    <value>Размер</value>
   </data>
   <data name="ExplorerView_ColumnType" xml:space="preserve">
-    <value>Type</value>
+    <value>Тип</value>
   </data>
   <data name="file" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\file.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -149,7 +149,7 @@
     <value>..\resources\folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="FolderExtension" xml:space="preserve">
-    <value>Folder with files</value>
+    <value>Папка с файлами</value>
   </data>
   <data name="tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -158,18 +158,18 @@
     <value>..\resources\tags.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Workspace" xml:space="preserve">
-    <value>Workspace</value>
+    <value>Рабочая область</value>
   </data>
   <data name="Size_GB" xml:space="preserve">
-    <value>GB</value>
+    <value>ГБ</value>
   </data>
   <data name="Size_KB" xml:space="preserve">
-    <value>KB</value>
+    <value>КБ</value>
   </data>
   <data name="ExplorerView_ColumnFreeSpace" xml:space="preserve">
-    <value>Free space</value>
+    <value>Свободно</value>
   </data>
   <data name="ExplorerView_ColumnTotalSize" xml:space="preserve">
-    <value>Total size</value>
+    <value>Общий размер</value>
   </data>
 </root>
